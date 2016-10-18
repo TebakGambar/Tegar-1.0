@@ -1,2 +1,4 @@
 # Tegar-1.0
-tebak gambar versi pertamama (gokil abis)
+tebak gambar versi pertama
+
+(gokil abis) percobaan
