@@ -1,2 +1,2 @@
 # Tegar-1.0
-tebak gambar versi pertama
+tebak gambar versi pertamama (gokil abis)
